@@ -1,11 +1,26 @@
-This is pretty basic weather report app that provides you the TEMPERATURE and WEATHER CONDITIONS of a place.
+# About
 
-I built this project basically to understand how APIs work in python.
+This is pretty basic weather report app that provides you the TEMPERATURE and WEATHER conditions of a place.
+I built this project basically to understand how APIs are called in python.
 
-Before using make sure to have Tkinter installed on your PC.
 
-For this, use the command line
+## Installation
 
-" pip install Tk"
+Navigate to the directory where you want to save this file.
 
-in your terminal.
+Clone this repo with 
+
+```bash
+  git clone https://github.com/Swastik-Aryal/weather-report-app.git
+```
+    
+## Requirements
+
+Install the required modules using
+
+```bash
+  pip install Tk
+```
+
+
+
